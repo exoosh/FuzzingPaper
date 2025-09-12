@@ -16,6 +16,15 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
 
 # All Papers (Classification according to Publication)
+- **SP 2025**
+  - [Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+  - [Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a066/21B7Ray6BkA)
+  - [RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a003/21B7PWv1JGU)
+  - [Stateful Analysis and Fuzzing of Commercial Baseband Firmware](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b120/26EkFox5zyg)
+  - [CHIMERA: Fuzzing P4 Network Infrastructure for Multi-Plane Bug Detection and Vulnerability Discovery](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c865/26hiVb0gXUA)
+  - [SAECRED: A State-Aware, Over-the-Air Protocol Testing Approach for Discovering Parsing Bugs in SAE Handshake Implementations of COTS Wi-Fi Access Points](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d414/26hiVv281YQ)
+  - [FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I)
+  - [HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d507/26hiVy3bGHm)
 - **ASIACCS 2024**
   - [Make out like a (Multi-Armed) Bandit: Improving the Odds of Fuzzer Seed Scheduling with T-Scheduler](https://dl.acm.org/doi/10.1145/3634737.3637639)
   - [SyzRisk: A Change-Pattern-Based Continuous Kernel Regression Fuzzer](https://dl.acm.org/doi/10.1145/3634737.3637642)
